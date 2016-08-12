@@ -1,2 +1,2 @@
-# jaywong1123.github.io
+# jaywong1123
 Jay Own Cydia Repository
